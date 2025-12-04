@@ -94356,7 +94356,6 @@ uuganbayar.i
 uuganbayar.j
 uuganbayar.k
 uuganbayar.kh
-uuganbayar.l
 uuganbayar.m
 uuganbayar.n
 uuganbayar.o
